@@ -1,0 +1,11 @@
+bin/
+obj/*.json
+obj/*.cache
+obj/*.props
+obj/Debug/net5.0/ref
+obj/Debug/net5.0/*.cache
+obj/Debug/net5.0/*.txt
+obj/Debug/net5.0/*.dll
+obj/Debug/net5.0/*.pdb
+.vs/
+obj/Debug/net5.0/apphost.exe
